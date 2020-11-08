@@ -1,0 +1,10 @@
+Pawelo   | 07.11.2020 19:57 | 28 | 5 | Beirut
+Opi      | 07.11.2020 19:58 | 26 | 6 | Port of Spain
+Norbert  | 07.11.2020 20:25 | 23 | 7 | Belgrade
+Jack     | 08.11.2020 11:37 | 25 | 7 | Abuja
+cpt Jack | 08.11.2020 11:40 | 27 | 7 | Pretoria
+Opi      | 08.11.2020 11:43 | 25 | 8 | Sarajevo
+NANA     | 08.11.2020 11:44 | 32 | 8 | Asunción
+Kwiatek  | 07.11.2020 19:15 | 72 | 8 | Palikir
+Pawelo   | 07.11.2020 18:22 | 28 | 9 | Lisbon
+LOBUZ    | 07.11.2020 19:37 | 32 | 9 | Bel
