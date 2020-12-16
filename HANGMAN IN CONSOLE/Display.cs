@@ -104,7 +104,7 @@ namespace HANGMAN_IN_CONSOLE
             }
             Console.Clear();
             Console.WriteLine("Welcome in the Hangman Game!\n\nChoose an option by pushing the correct" +
-                " button:\n\n1. Start the new game\n2. LeaderBoard\n3. Close the program");
+                " button:\n\n1. Start the new game\n2. Leaderboard\n3. Close the program");
             return Program.getUserInput();
         }
         static public void drawHangMan(int remaindedHealthPoints)
