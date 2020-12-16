@@ -1,3 +1,3 @@
 # Hangman-
-Simple Hangman app
+Simple Hangman console app
 
